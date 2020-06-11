@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.7614115"
-     inkscape:cx="161.48961"
+     inkscape:cx="112.71797"
      inkscape:cy="1031.7764"
      inkscape:document-units="px"
      inkscape:current-layer="g5060"
@@ -91,7 +91,9 @@
        transform="translate(-488.64635,-931.56518)">
       <g
          id="g1012"
-         transform="translate(0.27006912,-1.2667503)">
+         transform="translate(0.27006912,-1.2667503)"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:monospace;-inkscape-font-specification:Monospace;letter-spacing:0;word-spacing:0;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
@@ -140,14 +142,18 @@
          width="110"
          height="110"
          x="576.11353"
-         y="973.6394" />
+         y="973.6394"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
     </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:monospace;-inkscape-font-specification:Monospace;letter-spacing:0;word-spacing:0;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="144.80385"
        y="72.245247"
-       id="text5024"><tspan
+       id="text5024"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan5026"
          x="144.80385"
