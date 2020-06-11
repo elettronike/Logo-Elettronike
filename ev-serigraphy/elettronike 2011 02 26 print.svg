@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="elettronike 2011 02 26 print.svg"
+   inkscape:version="0.47+devel r9508"
+   version="1.1"
+   id="svg2"
+   height="1052.3622"
+   width="744.09448"
+   inkscape:export-filename="/Users/macbook/Documents/01_Grafica/Loghi/Elettronike /elettronike 2011 02 26 print.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   style="display:inline">
+  <defs
+     id="defs4">
+    <pattern
+       inkscape:stockid="Wavy white"
+       id="Wavywhite"
+       height="5.1805778"
+       width="30.066020"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always"
+       patternTransform="matrix(0.37037507,0.9288823,-0.9288823,0.37037507,703.88176,727.38535)">
+      <path
+         id="path6437"
+         d="M 7.597,0.061 C 5.079,-0.187 2.656,0.302 -0.01,1.788 L -0.01,3.061 C 2.773,1.431 5.173,1.052 7.472,1.280 C 9.770,1.508 11.969,2.361 14.253,3.218 C 18.820,4.931 23.804,6.676 30.066,3.061 L 30.062,1.788 C 23.622,5.497 19.246,3.770 14.691,2.061 C 12.413,1.207 10.115,0.311 7.597,0.061 z "
+         style="fill:white;stroke:none;" />
+    </pattern>
+    <pattern
+       patternTransform="matrix(-0.10313961,0.62619428,-0.8329752,-0.13719821,689.94407,777.52119)"
+       id="pattern4825-7-7"
+       xlink:href="#pattern3112-7-73"
+       inkscape:collect="always" />
+    <pattern
+       patternTransform="matrix(-0.10313961,0.62619428,-0.8329752,-0.13719821,531.92357,557.95362)"
+       id="pattern3112-7-73"
+       xlink:href="#Wavy-5-98-8"
+       inkscape:collect="always" />
+    <pattern
+       inkscape:stockid="Wavy"
+       id="Wavy-5-98-8"
+       height="5.1805778"
+       width="30.066020"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always"
+       patternTransform="matrix(0.6685595,-0.10633913,0.1193954,0.75064494,529.23456,461.22847)">
+      <path
+         id="path5145-7-3-9"
+         d="M 7.597,0.061 C 5.079,-0.187 2.656,0.302 -0.01,1.788 L -0.01,3.061 C 2.773,1.431 5.173,1.052 7.472,1.280 C 9.770,1.508 11.969,2.361 14.253,3.218 C 18.820,4.931 23.804,6.676 30.066,3.061 L 30.062,1.788 C 23.622,5.497 19.246,3.770 14.691,2.061 C 12.413,1.207 10.115,0.311 7.597,0.061 z "
+         style="fill:black;stroke:none;" />
+    </pattern>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5473-1"
+       id="linearGradient5623-4"
+       gradientUnits="userSpaceOnUse"
+       x1="85.336327"
+       y1="196.6329"
+       x2="269.58829"
+       y2="196.6329"
+       gradientTransform="translate(210.54851,4.5117537)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5473-1">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5475-8" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop5477-4" />
+    </linearGradient>
+    <filter
+       id="filter5659"
+       inkscape:label="Invert hue"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert hue, or rotate it"
+       y="0"
+       x="0"
+       height="1"
+       width="1"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix5661"
+         type="hueRotate"
+         values="180"
+         result="result1" />
+    </filter>
+    <filter
+       id="filter5663"
+       inkscape:label="Invert hue"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert hue, or rotate it"
+       y="0"
+       x="0"
+       height="1"
+       width="1"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix5665"
+         type="hueRotate"
+         values="180"
+         result="result1" />
+    </filter>
+    <filter
+       id="filter5667"
+       inkscape:label="Invert hue"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert hue, or rotate it"
+       y="0"
+       x="0"
+       height="1"
+       width="1"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix5669"
+         type="hueRotate"
+         values="180"
+         result="result1" />
+    </filter>
+    <filter
+       id="filter5671"
+       inkscape:label="Invert hue"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert hue, or rotate it"
+       y="0"
+       x="0"
+       height="1"
+       width="1"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix5673"
+         type="hueRotate"
+         values="180"
+         result="result1" />
+    </filter>
+    <filter
+       id="filter5675"
+       inkscape:label="Invert hue"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert hue, or rotate it"
+       y="0"
+       x="0"
+       height="1"
+       width="1"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix5677"
+         type="hueRotate"
+         values="180"
+         result="result1" />
+    </filter>
+    <filter
+       id="filter5679"
+       inkscape:label="Invert hue"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert hue, or rotate it"
+       y="0"
+       x="0"
+       height="1"
+       width="1"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix5681"
+         type="hueRotate"
+         values="180"
+         result="result1" />
+    </filter>
+    <filter
+       id="filter5683"
+       inkscape:label="Invert hue"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert hue, or rotate it"
+       y="0"
+       x="0"
+       height="1"
+       width="1"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix5685"
+         type="hueRotate"
+         values="180"
+         result="result1" />
+    </filter>
+    <filter
+       id="filter5683-5"
+       inkscape:label="Invert hue"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert hue, or rotate it"
+       y="0"
+       x="0"
+       height="1"
+       width="1"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix5685-1"
+         type="hueRotate"
+         values="180"
+         result="result1" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9403529"
+     inkscape:cx="225.29343"
+     inkscape:cy="825.07755"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="878"
+     inkscape:window-x="1280"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     units="mm"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false"
+     inkscape:snap-center="true"
+     inkscape:snap-to-guides="false"
+     inkscape:snap-grids="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-2.5390623e-6)"
+     style="display:inline">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.89116859;stroke-opacity:1;display:inline;filter:url(#filter5683-5)"
+       id="rect3022-1-1"
+       width="182.36079"
+       height="260.31357"
+       x="31.114113"
+       y="14.035707"
+       transform="matrix(1.6245023,0,0,1.4048091,-20.011392,2.2451109)" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-opacity:1;filter:url(#filter5683);stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3022-1"
+       width="182.36079"
+       height="260.31357"
+       x="86.281914"
+       y="67.980042" />
+    <g
+       transform="matrix(0.97612049,0.21722982,-0.21722982,0.97612049,-224.16562,-770.29448)"
+       id="g5060-9"
+       style="filter:url(#filter5659)">
+      <rect
+         transform="scale(1,-1)"
+         ry="10.79759"
+         y="-976.33459"
+         x="542.73822"
+         height="21.595181"
+         width="97.355026"
+         id="rect4961-0"
+         style="fill:#000000;stroke:#ffffff;stroke-width:2.14759945999999990;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4951-3"
+         y="970.14276"
+         x="546.67413"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0;word-spacing:0;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+         xml:space="preserve"><tspan
+           style="font-style:italic;-inkscape-font-specification:Monospace Italic;fill:#ffffff"
+           y="970.14276"
+           x="546.67413"
+           id="tspan4965-2"
+           sodipodi:role="line">iper</tspan></text>
+      <path
+         sodipodi:nodetypes="ccsssc"
+         inkscape:connector-curvature="0"
+         id="rect4961-6-8"
+         d="m 594.40093,954.99683 -6.39165,21.0561 41.09363,-0.18799 c 5.98511,-0.0274 10.81846,-4.67988 10.81846,-10.51281 0,-5.83294 -4.83329,-10.54329 -10.81846,-10.54329 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.12127948000000011;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4951-6-7"
+         y="968.41132"
+         x="593.9278"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0;word-spacing:0;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+           y="968.41132"
+           x="593.9278"
+           id="tspan4965-3-0"
+           sodipodi:role="line"><tspan
+             id="tspan5010-7"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana">χ</tspan><tspan
+             id="tspan5022-5"
+             style="font-style:italic;fill:#000000;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Italic">εnο</tspan></tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0;word-spacing:0;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+       x="593.85956"
+       y="941.07227"
+       id="text5024"
+       sodipodi:linespacing="125%"
+       transform="translate(0,2.5390623e-6)"><tspan
+         sodipodi:role="line"
+         id="tspan5026"
+         x="593.85956"
+         y="941.07227"></tspan></text>
+    <g
+       id="g5274"
+       transform="matrix(0.91832831,0,0,0.91832831,15.401299,-777.77509)"
+       style="filter:url(#filter5679)">
+      <path
+         transform="matrix(0.8188423,0,0,0.8188423,41.270152,168.55351)"
+         d="m 267.69739,963.63104 a 31.582275,31.582275 0 1 1 -63.16455,0 31.582275,31.582275 0 1 1 63.16455,0 z"
+         sodipodi:ry="31.582275"
+         sodipodi:rx="31.582275"
+         sodipodi:cy="963.63104"
+         sodipodi:cx="236.11511"
+         id="path5072"
+         style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:4.29967594000000020;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <text
+         xml:space="preserve"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.50000000000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+         x="211.82008"
+         y="968.33801"
+         id="text3022-7-1-8-6"><tspan
+           style="font-size:48px;fill:#ffffff;fill-opacity:1;stroke-width:1.50000000000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke:#ffffff"
+           sodipodi:role="line"
+           id="tspan3024-0-8-2-0"
+           x="211.82008"
+           y="968.33801">ε</tspan></text>
+      <text
+         id="text3026-3-5-3-6"
+         y="968.33801"
+         x="234.32417"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.50000000000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+         xml:space="preserve"><tspan
+           style="font-size:48px;fill:#ffffff;fill-opacity:1;stroke-width:1.50000000000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke:#ffffff"
+           y="968.33801"
+           x="234.32417"
+           id="tspan3028-9-04-8-2"
+           sodipodi:role="line">ν</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.52620952,0.85035495,-0.85035495,0.52620952,277.20657,-679.25625)"
+       id="g5028-8"
+       style="filter:url(#filter5675)">
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 558.3078,542.59768 56.82145,-34.93577 56.7678,34.93577 -56.7678,34.80843 z"
+         id="path3859-6-4-0"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="path3867-2-6-7"
+         d="m 606.93498,510.73355 -1.008,36.63176 8.24421,-2.56069 -0.015,31.66808 8.24846,-40.10465 -8.6422,2.16592 0.91824,-30.20629 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-size:85px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;stroke:#ffffff;stroke-width:1.50000000000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+         x="571.10059"
+         y="558.2113"
+         id="text3022-7-9-3"><tspan
+           style="font-size:85px;stroke-width:1.50000000000000000;stroke-miterlimit:4;stroke-dasharray:none;fill:#000000;stroke:#ffffff"
+           sodipodi:role="line"
+           id="tspan3024-0-7-5"
+           x="571.10059"
+           y="558.2113">ε</tspan></text>
+      <text
+         id="text3026-3-3-0"
+         y="558.2113"
+         x="625.8573"
+         style="font-size:85px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;stroke:#ffffff;stroke-width:1.50000000000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+         xml:space="preserve"><tspan
+           style="font-size:85px;stroke-width:1.50000000000000000;stroke-miterlimit:4;stroke-dasharray:none;fill:#000000;stroke:#ffffff"
+           y="558.2113"
+           x="625.8573"
+           id="tspan3028-9-9-4"
+           sodipodi:role="line">ν</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.52620952,0.85035495,-0.85035495,0.52620952,458.94043,-697.81502)"
+       id="g5036-9"
+       style="fill:#ffffff;fill-opacity:1;filter:url(#filter5671)">
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 558.3078,658.39936 56.82145,-34.93577 56.7678,34.93577 -56.7678,34.80843 z"
+         id="path3859-6-3-0"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="path3867-2-9-3"
+         d="m 621.39665,626.53523 1.008,36.63176 -8.24421,-2.56069 0.015,31.66808 -8.24846,-40.10465 8.6422,2.16592 -0.91824,-30.20629 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+         x="580.86035"
+         y="670.13312"
+         id="text3022-7-5-5"><tspan
+           style="font-size:48px;fill:#000000;fill-opacity:1;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke:#ffffff"
+           sodipodi:role="line"
+           id="tspan3024-0-5-3"
+           x="580.86035"
+           y="670.13312">ε</tspan></text>
+      <text
+         id="text3026-3-7-8"
+         y="670.13312"
+         x="628.84943"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+         xml:space="preserve"><tspan
+           style="font-size:48px;fill:#000000;fill-opacity:1;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke:#ffffff"
+           y="670.13312"
+           x="628.84943"
+           id="tspan3028-9-0-9"
+           sodipodi:role="line">ν</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.52620952,0.85035495,-0.85035495,0.52620952,544.66375,-669.2249)"
+       id="g5044-0"
+       style="filter:url(#filter5667)">
+      <path
+         style="fill:url(#Wavywhite);fill-opacity:1;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 561.31564,763.67362 56.82145,-34.93577 56.7678,34.93577 -56.7678,34.80843 z"
+         id="path3859-6-0-7"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="path3867-2-97-14"
+         d="m 609.94282,731.80949 -1.008,36.63176 8.24421,-2.56069 -0.015,31.66808 8.24846,-40.10465 -8.6422,2.16592 0.91824,-30.20629 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;stroke:#ffffff;stroke-width:1.50000000000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+         x="581.86816"
+         y="777.40735"
+         id="text3022-7-1-1"><tspan
+           style="font-size:56px;stroke-width:1.50000000000000000;stroke-miterlimit:4;stroke-dasharray:none;fill:#000000;stroke:#ffffff"
+           sodipodi:role="line"
+           id="tspan3024-0-8-8"
+           x="581.86816"
+           y="777.40735">ε</tspan></text>
+      <text
+         id="text3026-3-5-0"
+         y="777.40735"
+         x="627.85724"
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;stroke:#ffffff;stroke-width:1.50000000000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+         xml:space="preserve"><tspan
+           style="font-size:56px;stroke-width:1.50000000000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke:#ffffff;fill:#000000"
+           y="777.40735"
+           x="627.85724"
+           id="tspan3028-9-04-2"
+           sodipodi:role="line">ν</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.52620952,0.85035495,-0.85035495,0.52620952,531.12849,-758.70802)"
+       id="g5137-2"
+       style="filter:url(#filter5663)">
+      <path
+         style="fill:url(#Wavywhite);fill-opacity:1;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 566.95533,851.27684 56.82145,-34.93577 56.7678,34.93577 -56.7678,34.80843 z"
+         id="path3859-6-0-1-1"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="path3867-2-97-1-2"
+         d="m 615.58251,819.41271 -1.008,36.63176 8.24421,-2.56069 -0.015,31.66808 8.24846,-40.10465 -8.6422,2.16592 0.91824,-30.20629 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.50000000000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+         x="587.50787"
+         y="865.0105"
+         id="text3022-7-1-8-3"><tspan
+           style="font-size:56px;fill:#ffffff;fill-opacity:1;stroke-width:1.50000000000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke:#ffffff"
+           sodipodi:role="line"
+           id="tspan3024-0-8-2-1"
+           x="587.50787"
+           y="865.0105">ε</tspan></text>
+      <text
+         id="text3026-3-5-3-69"
+         y="865.0105"
+         x="633.49689"
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.50000000000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+         xml:space="preserve"><tspan
+           style="font-size:56px;fill:#ffffff;fill-opacity:1;stroke-width:1.50000000000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke:#ffffff"
+           y="865.0105"
+           x="633.49689"
+           id="tspan3028-9-04-8-6"
+           sodipodi:role="line">ν</tspan></text>
+    </g>
+  </g>
+</svg>
