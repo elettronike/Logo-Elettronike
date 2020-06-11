@@ -15,6 +15,7 @@ Font: Free-Serif
 ./ix-capsule/logo-iperkeno-capsule.png
 )
 
-Image size
-width:  345 px @ 300 dpi
-height: 345 px @ 300 dpi
+**Image size**   
+: width:  345 px @ 300 dpi   
+: height: 345 px @ 300 dpi   
+
