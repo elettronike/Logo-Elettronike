@@ -16,6 +16,6 @@ Font: Free-Serif
 )
 
 **Image size**   
-: width:  345 px @ 300 dpi   
-: height: 345 px @ 300 dpi   
+width:  345 px @ 300 dpi   
+height: 345 px @ 300 dpi   
 
