@@ -29,8 +29,10 @@ Al momento della conversione si ridimensiona l'immagine,
 mantenendo le proporzioni bloccate, ad una altezza di 25mm.
 Si imposta la soglia B/W al masssimo.
 
-![Logo Elettronike Diamond Sottile export to Kicad](
-./ev-diamond-sottile/Logo_ev_sottile_kicad.png)
+<img src="./ev-diamond-sottile/Logo_ev_sottile_kicad.png" 
+alt="Logo Elettronike Diamond Sottile export to Kicad" 
+style="width:500px;"/>
+
 
 ## Logo Iperkeno Capsule
 
