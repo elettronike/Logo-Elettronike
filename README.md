@@ -12,7 +12,7 @@ Font: Free-Serif
 ## Logo Elettronike Diamond Sottile
 
 ![Logo Elettronike Diamond Sottile](
-./ev-diamond-sottile/Logo_Elettronike_Sottile.png
+./ev-diamond-sottile/Logo_Elettronike_Sottile_400x100.png
 )
 
 ## Logo Iperkeno Capsule
