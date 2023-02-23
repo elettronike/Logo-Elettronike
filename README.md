@@ -12,16 +12,25 @@ Font: Free-Serif
 ## Logo Elettronike Diamond Sottile
 
 ![Logo Elettronike Diamond Sottile](
-./ev-diamond-sottile/Logo_Elettronike_Sottile_400x261.png
-)
+./ev-diamond-sottile/Logo_Elettronike_Sottile_400x261.png)
 
 **Font**
-Greek letters in logo: *FreeSerif*
-Elettronike: *Latin Modern Sans Quotation*
+Greek letters in logo: *FreeSerif*    
+Elettronike: *Latin Modern Sans Quotation*    
+
 
 **Image size**   
-width:  400 px @ 100,64 dpi   
-height: 261 px @ 100,64 dpi   
+width:  800 px @ 201.28 dpi   
+height: 522 px @ 201.28 dpi   
+
+Per migliorare la resa dopo la conversione con ImageConverter di Kicad,
+è consigliabile mantenere le dimensioni dell'imaagine elevate.
+Al momento della conversione si ridimensiona l'immagine, 
+mantenendo le proporzioni bloccate, ad una altezza di 25mm.
+Si imposta la soglia B/W al masssimo.
+
+![Logo Elettronike Diamond Sottile export to Kicad](
+./ev-diamond-sottile/Logo_ev_sottile_kicad.png)
 
 ## Logo Iperkeno Capsule
 
