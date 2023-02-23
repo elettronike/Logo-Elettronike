@@ -14,7 +14,7 @@ Font: Free-Serif
 ![Logo Elettronike Diamond Sottile](
 ./ev-diamond-sottile/Logo_Elettronike_Sottile_400x261.png)
 
-**Font**
+**Font**   
 Greek letters in logo: *FreeSerif*    
 Elettronike: *Latin Modern Sans Quotation*    
 
