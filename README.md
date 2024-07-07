@@ -1,5 +1,7 @@
 # Logo-Elettronike
 
+I file sorgenti sono nel formato SVG e sono creati utilizzando Inkscape-
+
 Logo Elettronike
 
 Font: Free-Serif
