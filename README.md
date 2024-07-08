@@ -35,3 +35,9 @@ Si imposta la soglia B/W al masssimo.
 **Image size**   
 width:  345 px @ 300 dpi   
 height: 345 px @ 300 dpi   
+
+inkscape cli export:
+
+```
+     inkscape --export-id-only ./ix-capsule/logo-iperkeno-capsule.svg --export-type="png" --export-id="logo_bb" 
+```

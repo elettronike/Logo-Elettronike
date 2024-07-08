@@ -1,5 +1,6 @@
 all:
-	mkdir release
+	mkdir -p release
+	inkscape --export-id-only ./ix-capsule/logo-iperkeno-capsule.svg --export-type="png" --export-id="logo_bb" -o release/ix-capsule.png
 
-celan:
+clean:
 	rm -r release

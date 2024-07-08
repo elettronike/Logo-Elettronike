@@ -2,21 +2,53 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="793.70081"
    height="1122.5197"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="logo-iperkeno-capsule.svg">
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="logo-iperkeno-capsule.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
-     id="defs4" />
+     id="defs4">
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask1049">
+      <g
+         id="g1061">
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.502;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1051"
+           width="110"
+           height="110"
+           x="576.11353"
+           y="973.6394"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.8px;line-height:0%;font-family:monospace;-inkscape-font-specification:Monospace;letter-spacing:0;word-spacing:0;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.067;stroke-dasharray:none"
+           x="633.79309"
+           y="1033.7053"
+           id="text1059"><tspan
+             sodipodi:role="line"
+             id="tspan1057"
+             x="633.79309"
+             y="1033.7053"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.2px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.067;stroke-dasharray:none"><tspan
+               style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.067;stroke-dasharray:none"
+               id="tspan1053">χ</tspan><tspan
+               style="font-style:italic;font-family:Verdana;-inkscape-font-specification:'Verdana Italic';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.067;stroke-dasharray:none"
+               id="tspan1055">εnο</tspan></tspan></text>
+      </g>
+    </mask>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,29 +56,35 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.8807058"
-     inkscape:cx="221.61771"
-     inkscape:cy="1122.1897"
+     inkscape:zoom="3.7614116"
+     inkscape:cx="100.76004"
+     inkscape:cy="125.08602"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="878"
-     inkscape:window-x="-15"
-     inkscape:window-y="177"
-     inkscape:window-maximized="0"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      units="mm"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="false"
      inkscape:snap-center="true"
      inkscape:snap-to-guides="false"
-     inkscape:snap-grids="false">
+     inkscape:snap-grids="false"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <sodipodi:guide
        orientation="0,1"
        position="-510.44667,1514.3251"
        id="guide3817"
        inkscape:locked="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid1257" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -67,7 +105,7 @@
      transform="translate(0,-2.7083331e-6)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:monospace;-inkscape-font-specification:Monospace;letter-spacing:0;word-spacing:0;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.8px;line-height:0%;font-family:monospace;-inkscape-font-specification:Monospace;letter-spacing:0;word-spacing:0;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.067;stroke-dasharray:none"
        x="274.62585"
        y="78.795418"
        id="text3004"><tspan
@@ -75,91 +113,63 @@
          id="tspan3006"
          x="274.62585"
          y="78.795418"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:1.06666672">Logo Iperkeno - capsule</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:1.067;stroke-dasharray:none">Logo Iperkeno - capsule</tspan><tspan
          sodipodi:role="line"
          x="274.62585"
          y="92.128754"
          id="tspan3008"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:1.06666672">Date 11/06/2020</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:1.067;stroke-dasharray:none">Date 11/06/2020</tspan><tspan
          sodipodi:role="line"
          x="274.62585"
          y="105.46208"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:1.06666672"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:1.067;stroke-dasharray:none"
          id="tspan3010">Author Iperkeno</tspan></text>
     <g
-       id="g5060"
-       transform="translate(-488.64635,-931.56518)"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       id="logo_bb"
+       inkscape:label="logo_bb">
       <g
-         id="g1012"
-         transform="translate(0.27006912,-1.2667503)"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:monospace;-inkscape-font-specification:Monospace;letter-spacing:0;word-spacing:0;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
-           x="583.11908"
-           y="1034.819"
-           id="text4951"><tspan
-             sodipodi:role="line"
-             id="tspan4965"
-             x="583.11908"
-             y="1034.819"
-             style="font-style:italic;font-size:19.20000076px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Italic';stroke-width:1.06666672">iper</tspan></text>
+         id="logo"
+         transform="translate(-488.64635,-931.56518)"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         inkscape:label="logo">
+        <path
+           style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.2627;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 634.29773,1017.3965 -6.81776,22.4598 43.8332,-0.2005 c 6.38412,-0.029 11.53969,-4.9919 11.53969,-11.2137 0,-6.2218 -5.1555,-11.2461 -11.53969,-11.2461 z"
+           id="rect4961-6"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccsssc"
+           mask="url(#mask1049)" />
         <rect
-           style="fill:none;stroke:#000000;stroke-width:2.29077268;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;stroke:#000000;stroke-width:2.29077;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="rect4961"
            width="103.84536"
            height="23.034859"
-           x="578.92078"
-           y="-1041.4236"
+           x="579.19086"
+           y="-1040.1569"
            ry="11.517429"
            transform="scale(1,-1)" />
-        <path
-           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.26269817;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 634.02766,1018.6633 -6.81776,22.4598 43.8332,-0.2005 c 6.38412,-0.029 11.53969,-4.9919 11.53969,-11.2137 0,-6.2218 -5.1555,-11.2461 -11.53969,-11.2461 z"
-           id="rect4961-6"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccsssc" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:monospace;-inkscape-font-specification:Monospace;letter-spacing:0;word-spacing:0;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.06666672"
-           x="633.52301"
-           y="1034.972"
-           id="text4951-6"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.8px;line-height:0%;font-family:monospace;-inkscape-font-specification:Monospace;letter-spacing:0;word-spacing:0;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06667"
+           x="583.38916"
+           y="1033.5522"
+           id="text4951"
+           inkscape:label="text4951"><tspan
              sodipodi:role="line"
-             id="tspan4965-3"
-             x="633.52301"
-             y="1034.972"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.20000076px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';fill:#ffffff;fill-opacity:1;stroke-width:1.06666672"><tspan
-               style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#ffffff;fill-opacity:1;stroke-width:1.06666672"
-               id="tspan5010">χ</tspan><tspan
-               style="font-style:italic;font-family:Verdana;-inkscape-font-specification:'Verdana Italic';fill:#ffffff;fill-opacity:1;stroke-width:1.06666672"
-               id="tspan5022">εnο</tspan></tspan></text>
+             id="tspan4965"
+             x="583.38916"
+             y="1033.5522"
+             style="font-style:italic;font-size:19.2px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Italic';stroke-width:1.06667;fill:#000000;fill-opacity:1">iper</tspan></text>
       </g>
       <rect
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.502;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect1014"
-         width="110"
-         height="110"
-         x="576.11353"
-         y="973.6394"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.067;stroke-dasharray:none"
+         id="rect1203"
+         width="195"
+         height="145"
+         x="50"
+         y="30.000002"
+         inkscape:label="rect1203" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:monospace;-inkscape-font-specification:Monospace;letter-spacing:0;word-spacing:0;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
-       x="144.80385"
-       y="72.245247"
-       id="text5024"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"><tspan
-         sodipodi:role="line"
-         id="tspan5026"
-         x="144.80385"
-         y="72.245247"
-         style="font-size:19.20000076px;line-height:1.25;font-family:monospace;stroke-width:1.06666672"> </tspan></text>
   </g>
 </svg>
