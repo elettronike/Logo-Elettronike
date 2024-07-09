@@ -1,10 +1,15 @@
 # Logo-Elettronike
 
-I file sorgenti sono nel formato SVG e sono creati utilizzando Inkscape-
+I file sorgenti sono nel formato SVG e sono creati utilizzando Inkscape
 
-Logo Elettronike
+**Logo Elettronike**
+Font: Nunito 
+size: 50 
+spacing: 6
 
-Font: Free-Serif
+
+**Lettering**
+Font: [Nunito](https://www.fontshare.com/fonts/nunito)
 
 ## Logo Elettronike Diamond
 
@@ -41,3 +46,7 @@ inkscape cli export:
 ```
      inkscape --export-id-only ./ix-capsule/logo-iperkeno-capsule.svg --export-type="png" --export-id="logo_bb" 
 ```
+
+## ev-serigraphy (2011)
+
+Prima realizzazione del logo per la realizzazione di un timbro.
