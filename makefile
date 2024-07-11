@@ -2,7 +2,7 @@ REL = "release-1.0"
 
 
 
-all: logo-ix logo-ev
+all: logo-ix logo-ev font-ev
 	touch ./${REL}/readme.md
 	
 logo-ix: release-dir
@@ -19,7 +19,7 @@ logo-ev: release-dir
 
 font-ev: release-dir
 	
-	fontforge -lang=ff -c 'Open($1); Generate($2)' $(PWD)/Elettronike-Regular.sfd $(PWD)/Elettronike-Regular.otf
+	fontforge -lang=ff -c 'Open($$1); Generate($$2)' ./Font_Elettronike/Elettronike-Regular.sfd ${REL}/Elettronike-Regular.otf
 
 release-dir:
 	mkdir -p ${REL}
