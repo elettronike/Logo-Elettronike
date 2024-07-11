@@ -1,5 +1,7 @@
 REL = "release-1.0"
 
+
+
 all: logo-ix logo-ev
 	touch ./${REL}/readme.md
 	
@@ -14,7 +16,11 @@ logo-ev: release-dir
 	inkscape --export-id-only logo-elettronike.svg --export-type="png" --export-id="logo-ev-wire" -o ${REL}/ev-diomond-wire.png
 	inkscape --export-id-only logo-elettronike.svg --export-type="png" --export-id="logo-ev-text" -o ${REL}/ev-diomond-text.png
 	inkscape --export-id-only logo-elettronike.svg --export-type="png" --export-id="logo-ev-text-bb" -o ${REL}/ev-diomond-text-bb.png
+
+font-ev: release-dir
 	
+	fontforge -lang=ff -c 'Open($1); Generate($2)' $(PWD)/Elettronike-Regular.sfd $(PWD)/Elettronike-Regular.otf
+
 release-dir:
 	mkdir -p ${REL}
 		
