@@ -60,10 +60,10 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter1593"
-       x="0"
-       y="0"
-       width="1.0034845"
-       height="1">
+       x="-0.05000005"
+       y="-0.021096155"
+       width="1.0999996"
+       height="1.0421923">
       <feBlend
          inkscape:collect="always"
          mode="lighten"
@@ -112,16 +112,30 @@
          in2="BackgroundImage"
          id="feBlend1595-3" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1593-3"
+       x="-0.027493072"
+       y="-0.02089707"
+       width="1.0549861"
+       height="1.0417941">
+      <feBlend
+         inkscape:collect="always"
+         mode="lighten"
+         in2="BackgroundImage"
+         id="feBlend1595-0" />
+    </filter>
     <mask
        maskUnits="userSpaceOnUse"
-       id="mask974">
+       id="mask7969">
       <g
-         id="g982"
+         id="g7977"
          inkscape:label="mask">
         <path
            style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.00115;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;filter:url(#filter1593)"
            d="m 286.01573,72.00053 39.09099,1e-5 c 14.91649,-5.3e-4 14.91649,24.99948 0,24.99896 h -39.09099 c -2.00468,-3.99984 -2.00468,-7.99967 0,-11.9995 1.84821,-3.68767 2.00466,-8.99963 0,-12.99947 z"
-           id="path976"
+           id="path7971"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccccsc" />
         <text
@@ -129,9 +143,9 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.0001;stroke-dasharray:none"
            x="289.66211"
            y="92.459213"
-           id="text980"><tspan
+           id="text7975"><tspan
              sodipodi:role="line"
-             id="tspan978"
+             id="tspan7973"
              x="289.66211"
              y="92.459213"
              style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:1.0001;stroke-dasharray:none">nike</tspan></text>
@@ -145,11 +159,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="403.3034"
-     inkscape:cy="454.82118"
+     inkscape:zoom="2.8"
+     inkscape:cx="439.64285"
+     inkscape:cy="403.39285"
      inkscape:document-units="mm"
-     inkscape:current-layer="logo-ev-text"
+     inkscape:current-layer="layer1"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -162,7 +176,7 @@
      inkscape:snap-path-clip="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-others="false"
-     inkscape:lockguides="true"
+     inkscape:lockguides="false"
      inkscape:showpageshadow="2"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1">
@@ -170,12 +184,7 @@
        position="100,275"
        orientation="1,0"
        id="guide4520"
-       inkscape:locked="true" />
-    <sodipodi:guide
-       position="35,200"
-       orientation="0,1"
-       id="guide4522"
-       inkscape:locked="true" />
+       inkscape:locked="false" />
     <inkscape:grid
        type="xygrid"
        id="grid4524"
@@ -188,32 +197,42 @@
        position="150,270"
        orientation="1,0"
        id="guide4526"
-       inkscape:locked="true" />
+       inkscape:locked="false" />
     <sodipodi:guide
        position="50,275"
        orientation="1,0"
        id="guide4528"
-       inkscape:locked="true" />
+       inkscape:locked="false" />
     <sodipodi:guide
-       position="39.999999,225.00001"
-       orientation="0,1"
-       id="guide4534"
-       inkscape:locked="true" />
+       position="99.999997,221.28062"
+       orientation="0.44721401,-0.89442698"
+       id="guide6335"
+       inkscape:locked="false" />
     <sodipodi:guide
-       position="34.999999,175"
-       orientation="0,1"
-       id="guide4536"
-       inkscape:locked="true" />
+       position="99.999997,221.28063"
+       orientation="0.44721433,0.89442682"
+       id="guide6337"
+       inkscape:locked="false" />
     <sodipodi:guide
-       position="74,187"
-       orientation="0,1"
-       id="guide1006"
-       inkscape:locked="true" />
+       position="97.018835,221.78062"
+       orientation="1,0"
+       id="guide6339"
+       inkscape:locked="false" />
     <sodipodi:guide
-       position="132,70.000002"
-       orientation="0,-1"
-       id="guide4645"
-       inkscape:locked="true" />
+       position="102,85.79145"
+       orientation="1,0"
+       id="guide6341"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="97.999997,112.79145"
+       orientation="0.44721372,-0.89442713"
+       id="guide6343"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="102,112.79145"
+       orientation="0.44721355,0.89442721"
+       id="guide6345"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -234,107 +253,100 @@
     <g
        id="g4651"
        inkscape:label="#logo-ev-capsule"
-       transform="matrix(0.99979304,0,0,1,0.04346578,0)"
-       sodipodi:insensitive="true">
+       transform="matrix(0.99979304,0,0,1,0.04346578,0)">
       <path
          style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00115;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         d="m 285.93281,72.001031 39.09099,1e-5 c 14.91649,-5.3e-4 14.91649,24.99948 0,24.99896 h -39.09099 c -2.00468,-3.99984 -2.00468,-7.99967 0,-11.9995 1.84821,-3.68767 2.00466,-8.99963 0,-12.99947 z"
+         d="m 285.93281,72.001031 35.63173,-0.0015 c 20.00414,-9e-6 20.00414,25.000001 0,25.000001 l -35.63173,5.01e-4 c -2.00468,-3.99984 -2.00468,-7.99967 0,-11.9995 1.84821,-3.68767 2.00466,-8.99963 0,-12.99947 z"
          id="path4599-4"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccsc"
-         mask="url(#mask974)" />
+         mask="url(#mask7969)"
+         transform="translate(-1.5417709,5.0052477e-4)" />
       <path
          style="display:inline;fill:none;stroke:#000000;stroke-width:2.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 225.02377,71.99332 c 15.02377,-0.0067 84.99692,-0.0067 100.00003,0 15.00311,0.0067 15.00311,25.006681 0,24.999999 -15.00311,-0.0067 -84.97626,-0.0067 -100.00003,0 C 210,97.000001 210,71.999991 225.02377,71.99332 Z"
+         d="m 230.00414,72 c 19.941,0.001 70.01448,-0.0067 90.01863,-9e-6 20.00414,0.0067 21.00434,25.006691 0,25.00001 -21.00435,-0.0067 -69.99382,-0.0067 -90.01863,0 -20.02481,0.0067 -19.94101,-25.001041 0,-25.000001 z"
          id="path4599"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="zzzzz" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.0001;stroke-dasharray:none;filter:url(#filter1593)"
-         x="217.43565"
-         y="92.381447"
+         x="218.72177"
+         y="92.122528"
          id="text4559-9-3"><tspan
            sodipodi:role="line"
            id="tspan4557-8-5"
-           x="217.43565"
-           y="92.381447"
+           x="218.72177"
+           y="92.122528"
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:1.0001;stroke-dasharray:none">Elettro</tspan></text>
     </g>
     <g
        id="logo-ev-text-bb"
-       inkscape:label="#logo-ev-text-bb">
+       inkscape:label="#logo-ev-text-bb"
+       transform="translate(-2.6239039e-7,111.20855)">
       <g
          id="logo-ev-text"
          inkscape:label="#logo-ev-text">
-        <path
-           style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-           d="M 102,73.000001 99,93 l 6,6 -5,23"
-           id="path906-0"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccc"
-           inkscape:export-xdpi="201.28"
-           inkscape:export-ydpi="201.28"
-           inkscape:export-filename="/home/iperkeno/Documents/KNOWLEDGE_BASE/KICAD/KICAD_PAGE_LAYOUT/KICAD_PAGE_LAYOUT_ELETTRONIKE/Logo_Elettronike_Sottile_800_521_1.0.png" />
-        <path
-           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-           d="M 50.047247,97.094494 75.520833,84.239583 84.667856,79.666072 100,72 150,97.000001 c 0,0 -48,23.999999 -49.96709,24.990109 C 98,121 50.047247,97.094494 50.047247,97.094494 Z"
-           id="path4518"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccccccc"
-           inkscape:export-xdpi="201.28"
-           inkscape:export-ydpi="201.28"
-           inkscape:export-filename="/home/iperkeno/Documents/KNOWLEDGE_BASE/KICAD/KICAD_PAGE_LAYOUT/KICAD_PAGE_LAYOUT_ELETTRONIKE/Logo_Elettronike_Sottile_800_521_1.0.png" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.3206px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-           x="71.603867"
-           y="108.96751"
-           id="text4559"
-           inkscape:export-xdpi="201.28"
-           inkscape:export-ydpi="201.28"
-           inkscape:export-filename="/home/iperkeno/Documents/KNOWLEDGE_BASE/KICAD/KICAD_PAGE_LAYOUT/KICAD_PAGE_LAYOUT_ELETTRONIKE/Logo_Elettronike_Sottile_800_521_1.0.png"><tspan
-             sodipodi:role="line"
-             id="tspan4557"
+        <g
+           id="logo-ev-wire"
+           inkscape:label="#logo-ev-wire">
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             d="M 50.047247,97.094494 75.520833,84.239583 84.667856,79.666072 100,72 150,97.000001 c 0,0 -48,23.999999 -49.96709,24.990109 C 98,121 50.047247,97.094494 50.047247,97.094494 Z"
+             id="path4518"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccccc"
+             inkscape:export-xdpi="201.28"
+             inkscape:export-ydpi="201.28"
+             inkscape:export-filename="/home/iperkeno/Documents/KNOWLEDGE_BASE/KICAD/KICAD_PAGE_LAYOUT/KICAD_PAGE_LAYOUT_ELETTRONIKE/Logo_Elettronike_Sottile_800_521_1.0.png" />
+          <path
+             id="path906"
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             inkscape:label="thunder"
+             d="M 100,122 102,100 95,94 97.018835,73.490581 100,72 l 2,1 -3,20 6,6 -5,23"
+             sodipodi:nodetypes="ccccccccc" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.3206px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;filter:url(#filter1593)"
              x="71.603867"
              y="108.96751"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.3206px;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal">ε</tspan></text>
-        <path
-           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-           d="m 98,73 -3,21 7,6 -2,22"
-           id="path906"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccc"
-           inkscape:export-xdpi="201.28"
-           inkscape:export-ydpi="201.28"
-           inkscape:export-filename="/home/iperkeno/Documents/KNOWLEDGE_BASE/KICAD/KICAD_PAGE_LAYOUT/KICAD_PAGE_LAYOUT_ELETTRONIKE/Logo_Elettronike_Sottile_800_521_1.0.png" />
-        <text
-           mask="none"
-           id="text4563-1-4"
-           y="109.5154"
-           x="103.90969"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.0615px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-           xml:space="preserve"
-           inkscape:export-xdpi="201.28"
-           inkscape:export-ydpi="201.28"
-           inkscape:export-filename="/home/iperkeno/Documents/KNOWLEDGE_BASE/KICAD/KICAD_PAGE_LAYOUT/KICAD_PAGE_LAYOUT_ELETTRONIKE/Logo_Elettronike_Sottile_800_521_1.0.png"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.0615px;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             id="text4559"
+             inkscape:export-xdpi="201.28"
+             inkscape:export-ydpi="201.28"
+             inkscape:export-filename="/home/iperkeno/Documents/KNOWLEDGE_BASE/KICAD/KICAD_PAGE_LAYOUT/KICAD_PAGE_LAYOUT_ELETTRONIKE/Logo_Elettronike_Sottile_800_521_1.0.png"><tspan
+               sodipodi:role="line"
+               id="tspan4557"
+               x="71.603867"
+               y="108.96751"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.3206px;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal">ε</tspan></text>
+          <text
+             mask="none"
+             id="text4563-1-4"
              y="109.5154"
              x="103.90969"
-             id="tspan4561-9-9"
-             sodipodi:role="line">ν</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.0615px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             xml:space="preserve"
+             inkscape:export-xdpi="201.28"
+             inkscape:export-ydpi="201.28"
+             inkscape:export-filename="/home/iperkeno/Documents/KNOWLEDGE_BASE/KICAD/KICAD_PAGE_LAYOUT/KICAD_PAGE_LAYOUT_ELETTRONIKE/Logo_Elettronike_Sottile_800_521_1.0.png"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.0615px;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+               y="109.5154"
+               x="103.90969"
+               id="tspan4561-9-9"
+               sodipodi:role="line">ν</tspan></text>
+        </g>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;font-family:Manjari;-inkscape-font-specification:'Manjari, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;font-family:Nunito;-inkscape-font-specification:'Nunito, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;text-anchor:middle;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
            x="100"
            y="138"
            id="text1613"><tspan
              sodipodi:role="line"
              id="tspan1611"
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:21.1667px;font-family:Nunito;-inkscape-font-specification:'Nunito, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:#000000;stroke-width:0.8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;font-family:Elettronike;-inkscape-font-specification:'Elettronike, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
              x="100"
              y="138"
-             dx="0 0 0 0 1">Elettronike</tspan></text>
+             dx="0 0 0 0 0.5">Elettronike</tspan></text>
       </g>
       <rect
          style="fill:none;stroke:none;stroke-width:1;stroke-dasharray:none"
@@ -347,7 +359,8 @@
     </g>
     <g
        id="logo-ev-bb"
-       inkscape:label="#logo-ev-bb">
+       inkscape:label="#logo-ev-bb"
+       transform="translate(175.04725,-12.405519)">
       <g
          id="logo-ev"
          inkscape:label="#logo-ev"
@@ -393,6 +406,56 @@
          x="40"
          y="155"
          inkscape:label="rect1323" />
+    </g>
+    <g
+       id="logo-ev-black"
+       inkscape:label="#logo-ev-black"
+       style="display:inline;stroke-width:2;stroke-dasharray:none;filter:url(#filter1593-3)"
+       transform="translate(-2.6238654e-7,3.7193848)">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         d="M 50.047247,97.094494 75.520833,84.239583 84.667856,79.666072 100,72 150,97.000001 c 0,0 -48,23.999999 -49.96709,24.990109 C 98,121 50.047247,97.094494 50.047247,97.094494 Z"
+         id="path4518-9"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:export-xdpi="201.28"
+         inkscape:export-ydpi="201.28"
+         inkscape:export-filename="/home/iperkeno/Documents/KNOWLEDGE_BASE/KICAD/KICAD_PAGE_LAYOUT/KICAD_PAGE_LAYOUT_ELETTRONIKE/Logo_Elettronike_Sottile_800_521_1.0.png"
+         inkscape:label="path4518-9" />
+      <path
+         id="path906-2"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         d="M 100,122 102,100 95,94 97.018835,73.490579 100,72 102,72.999989 99,93 l 6,6 -5,23"
+         sodipodi:nodetypes="ccccccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;filter:url(#filter1593-3)"
+         x="72.219879"
+         y="108.69663"
+         id="text4559-54"
+         inkscape:export-xdpi="201.28"
+         inkscape:export-ydpi="201.28"
+         inkscape:export-filename="/home/iperkeno/Documents/KNOWLEDGE_BASE/KICAD/KICAD_PAGE_LAYOUT/KICAD_PAGE_LAYOUT_ELETTRONIKE/Logo_Elettronike_Sottile_800_521_1.0.png"><tspan
+           sodipodi:role="line"
+           id="tspan4557-0"
+           x="72.219879"
+           y="108.69663"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal">ε</tspan></text>
+      <text
+         mask="none"
+         id="text4563-1-4-5"
+         y="109.2094"
+         x="102.18707"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         xml:space="preserve"
+         inkscape:export-xdpi="201.28"
+         inkscape:export-ydpi="201.28"
+         inkscape:export-filename="/home/iperkeno/Documents/KNOWLEDGE_BASE/KICAD/KICAD_PAGE_LAYOUT/KICAD_PAGE_LAYOUT_ELETTRONIKE/Logo_Elettronike_Sottile_800_521_1.0.png"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           y="109.2094"
+           x="102.18707"
+           id="tspan4561-9-9-9"
+           sodipodi:role="line">ν</tspan></text>
     </g>
   </g>
 </svg>
