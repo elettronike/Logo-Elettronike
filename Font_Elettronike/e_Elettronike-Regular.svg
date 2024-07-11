@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="-10 0 542 1000"
+   id="svg1364"
+   sodipodi:docname="e_Elettronike-Regular.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1368" />
+  <sodipodi:namedview
+     id="namedview1366"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     showguides="true"
+     inkscape:zoom="0.785"
+     inkscape:cx="-310.82803"
+     inkscape:cy="599.36306"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1362">
+    <sodipodi:guide
+       position="135,479"
+       orientation="1,0"
+       id="guide1534"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="431,479"
+       orientation="1,0"
+       id="guide1536"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="260.18352,485.42904"
+       orientation="0,-1"
+       id="guide1538"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="259.60471,420.03064"
+       orientation="0,-1"
+       id="guide1589"
+       inkscape:locked="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid1591" />
+    <sodipodi:guide
+       position="466,426"
+       orientation="1,0"
+       id="guide1593"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     transform="matrix(1 0 0 -1 0 800)"
+     id="g1362">
+    <path
+       fill="currentColor"
+       d="M 295,-9 C 141,-9 46,87 46,242 c 0,151 96,253 234,253 131,0 211,-90 211,-238 0,-21 -12,-36.96936 -35,-36.96936 l -331,0 C 131,109.03064 191,56 295,56 c 44,0 91,10 133,39 46,29 76,-26 34,-54 C 418,9 353,-9 295,-9 Z M 282,435 C 189,435 135,378.42904 125,285.42904 H 421 C 417,383.42904 369,435 282,435 Z"
+       id="path1360"
+       sodipodi:nodetypes="ssssscsccssccs" />
+  </g>
+</svg>

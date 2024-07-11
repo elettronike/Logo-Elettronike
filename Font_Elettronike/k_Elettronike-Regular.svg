@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="-10 0 510 1000"
+   id="svg6"
+   sodipodi:docname="k_Elettronike-Regular.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     showguides="true"
+     inkscape:zoom="1.1101576"
+     inkscape:cx="287.34658"
+     inkscape:cy="449.03533"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6">
+    <sodipodi:guide
+       position="167,470"
+       orientation="-0.68754998,0.72613706"
+       id="guide239"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid241" />
+    <sodipodi:guide
+       position="253,452"
+       orientation="-0.68826043,0.7254637"
+       id="guide243"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="167,428"
+       orientation="1,0"
+       id="guide246"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="169,428"
+       orientation="1,0"
+       id="guide248"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="167,370.41026"
+       orientation="-0.68826038,0.72546375"
+       id="guide461"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="169,428"
+       orientation="0.67841754,0.73467656"
+       id="guide473"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <path
+     fill="currentColor"
+     d="M 116,807 C 90,807 76,792 76,765 V 129 c 0,-26 14,-41 40,-41 26,0 41,15 41,41 v 401 h 2 L 364,334 c 18,-17 29,-27 53,-27 32,0 46,30 21,56 L 243,548 457,749 c 27,27 9,58 -20,58 -24,0 -36,-10 -56,-30 L 188.74792,599.46992 157,629.58974 V 765 c 0,27 -14,42 -41,42 z"
+     id="path2"
+     sodipodi:nodetypes="ssssscccscccscccss" />
+</svg>
