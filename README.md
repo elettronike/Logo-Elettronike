@@ -2,6 +2,7 @@
 
 I file sorgenti sono nel formato SVG e sono creati utilizzando Inkscape
 
+
 **Logo Elettronike**
 Font: Nunito 
 size: 50 
@@ -46,6 +47,9 @@ inkscape cli export:
 ```
      inkscape --export-id-only ./ix-capsule/logo-iperkeno-capsule.svg --export-type="png" --export-id="logo_bb" 
 ```
+
+## Logo per template Kicad
+Kicad template have a dimension of 64x64
 
 ## ev-serigraphy (2011)
 
